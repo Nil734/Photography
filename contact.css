@@ -1,0 +1,42 @@
+body{
+    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalUcv1yr4nmRucC3xEqFdmM5n-1S31Z67ayYSs-iYdAOiFh_DbteRuvfnxv2yAWwZ3gk&usqp=CAU");
+    background-size: cover;
+}
+div{
+    background-image:url(contact.jpg);
+    background-size: cover;
+}
+.card-body{
+    width: 600px;
+    font-weight: bolder;
+    font-size: x-large;
+    color:whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 55px;  
+    color: yellow;
+    text-decoration:underline white;
+    border: 3px solid black;
+    box-shadow: 3px 3px 3px 3px grey;
+    border-radius: 20px;
+    margin: 80px;
+    padding: 75px;
+    align-content: center;
+  
+}
+.card-body:hover{
+    box-shadow: 10px 10px 10px rgb(182, 43, 43);
+    border-radius: 25px;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+}
+.main{
+   
+    background-image: none;
+    align-items:center;
+    position: absolute;
+    left: 30px;
+   
+}
